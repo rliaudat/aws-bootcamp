@@ -1,5 +1,4 @@
-# FREE AWS Cloud Project Bootcamp - Edited by Rodrigo Liaudat
-
+# FREE AWS Cloud Project Bootcamp - Edited by RL-13
 - Application: Cruddur
 - Cohort: 2023-A1
 
